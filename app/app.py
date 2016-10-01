@@ -1,5 +1,7 @@
 from config import *
-from flask import Flask, request, redirect, url_for, send_from_directory
+from flask import Flask, request
+from flask import redirect, url_for
+from flask import send_from_directory, render_template
 from flask import request
 
 ## Configuring the axpp
@@ -11,7 +13,7 @@ app.debug=True
 def hello_world():
     if request.method =='GET':
         print HOME
-        return send_from_directory('static', 'pages/home/index.html')
+        return render_template('pages/home/index.html')
     else:
         def callback():
             return 'received!'
