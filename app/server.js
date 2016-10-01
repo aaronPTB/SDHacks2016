@@ -38,30 +38,27 @@ git
 //not already occupied. This will also be a useful debounce mechanism.
 function update_db(db, json, callback) {
 	//TODO: Implement function to parse through json and act accordingly
-	db.collection('test', function(err, elevator_info) {
+	db.collection('test', function(err, item_info) {
 		assert.equal(err, null);
 
-		elevator_info.findOne({"time": json.time}, function(err, doc) {
+		item_info.findOne({"time": json.time}, function(err, doc) {
 			assert.equal(err, null);
 
 			if (doc == null) {
 				//console.log(JSON.stringify(json));
-				console.log("succesfully inserted elevator info into time slot");
-				elevator_info.insertOne(json);
+				console.log("succesfully inserted item info into time slot");
+				item_info.insertOne(json);
 			}
 			else {
-				console.log("tried to insert elevator info into filled time slot");
+				console.log("tried to insert item info into filled time slot");
 			}
 			callback();
 		})
 	})
 }
 
-//Finds elevators in the database.
-//If group is not specified, it will list all groups.
-//If time is not specified, it will list all times.
-function find_elevator(db, group, time, callback) {
-	db.collection('test', function(err, elevator_info) {
+function find_item(db, group, time, callback) {
+	db.collection('test', function(err, item_info) {
 		assert.equal(err, null);
 
 		var selector = {};
@@ -74,7 +71,7 @@ function find_elevator(db, group, time, callback) {
 
 		console.log("selector: " + JSON.stringify(selector))
 
-		elevator_info.find(selector).toArray(function(err, docs) {
+		item_info.find(selector).toArray(function(err, docs) {
 			callback(docs);
 		})
 	})
@@ -91,7 +88,7 @@ app.get('/', function (req, res) {
 	mongodb.connect(db_loc, function(err, db) {
 		assert.equal(err, null);
 
-		find_elevator(db, null, null, function(result) {
+		find_item(db, null, null, function(result) {
 			res.send(JSON.stringify(result));
 			db.close();
 		});
