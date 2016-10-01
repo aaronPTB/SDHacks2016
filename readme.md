@@ -1,2 +1,3 @@
 # SDHacks2016
-Jamison was here
+
+Essay revision with the help of neural networks
