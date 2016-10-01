@@ -29,7 +29,6 @@ mongodb.connect(db_loc, function(err, db) {
 })
 
 var debug_json =　{
-git
 }
 //-----Helper functions-----//
 
@@ -41,33 +40,12 @@ function update_db(db, json, callback) {
 	db.collection('test', function(err, item_info) {
 		assert.equal(err, null);
 
-		item_info.findOne({"time": json.time}, function(err, doc) {
-			assert.equal(err, null);
-
-			if (doc == null) {
-				//console.log(JSON.stringify(json));
-				console.log("succesfully inserted item info into time slot");
-				item_info.insertOne(json);
-			}
-			else {
-				console.log("tried to insert item info into filled time slot");
-			}
-			callback();
-		})
 	})
 }
 
-function find_item(db, group, time, callback) {
+function find_item(db, selector, callback) {
 	db.collection('test', function(err, item_info) {
 		assert.equal(err, null);
-
-		var selector = {};
-		if (group != null) {
-			selector["group"] = group;
-		}
-		if (time != null) {
-			selector["time"] = time;
-		}
 
 		console.log("selector: " + JSON.stringify(selector))
 
