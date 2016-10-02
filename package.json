@@ -5,10 +5,9 @@
   "main": "./app/app.js",
   "scripts": {
     "watch": "webpack -w",
-    "start": "nodemon ./app/app.js",
+    "start": "babel-node ./app/app.js",
     "dev": "concurrent --kill-others \"npm run webpack-watch\" \"npm run express-server\"",
     "test": "echo \"Error: no test specified\" && exit 1"
-
   },
   "repository": {
     "type": "git",
@@ -21,6 +20,10 @@
   },
   "homepage": "https://github.com/aaronPTB/SDHacks2016#readme",
   "dependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babelify": "^7.3.0",
     "body-parser": "^1.15.2",
     "concurrently": "^3.0.0",
     "express": "^4.14.0",
