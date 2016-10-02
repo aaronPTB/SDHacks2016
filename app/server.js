@@ -37,14 +37,14 @@ var debug_json =　{
 //not already occupied. This will also be a useful debounce mechanism.
 function update_db(db, json, callback) {
 	//TODO: Implement function to parse through json and act accordingly
-	db.collection('test', function(err, item_info) {
+	db.collection('tasks', function(err, item_info) {
 		assert.equal(err, null);
 
 	})
 }
 
 function find_item(db, selector, callback) {
-	db.collection('test', function(err, item_info) {
+	db.collection('tasks', function(err, item_info) {
 		assert.equal(err, null);
 
 		console.log("selector: " + JSON.stringify(selector))
@@ -55,18 +55,12 @@ function find_item(db, selector, callback) {
 	})
 }
 
-//clean_db will search through the database for items older
-//than time_days (in days) and remove them.
-function clean_db(db, time_days) {
-	//TODO:implement clean_db
-}
-
 //Simple hello world functionality to see if the server is communicating
 app.get('/', function (req, res) {
 	mongodb.connect(db_loc, function(err, db) {
 		assert.equal(err, null);
 
-		find_item(db, null, null, function(result) {
+		find_item(db, {}, function(result) {
 			res.send(JSON.stringify(result));
 			db.close();
 		});
@@ -97,6 +91,6 @@ app.post('/', function (req, res){
 
 //This gets the server communicating over port 3000.
 //Standard http port is port 80, will be switched to eventually.
-app.listen(3000, '0.0.0.0', function () {
+app.listen(3001, '0.0.0.0', function () {
 	console.log("successfully binded to port 3000");
 });
