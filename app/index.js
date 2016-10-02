@@ -1,11 +1,9 @@
 //Imports for:
-//> express (web server driver)
-//> body-parser (handles http-post requests since this functionality is not
-//inherent to express)
-//> mongdo (mongodb node driver)
-//> assert
 var express = require('express');
 var body_parser = require('body-parser');
+var browserify = require('browserify');
+var React = require('react');
+var jsx = require('node-jsx');
 var mongodb = require('mongodb').MongoClient;
 var assert = require('assert');
 
