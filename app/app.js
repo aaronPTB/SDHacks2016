@@ -1,13 +1,26 @@
-//Imports for:
-var express = require('express');
-var body_parser = require('body-parser');
-var mongodb = require('mongodb').MongoClient;
-var assert = require('assert');
+import express from 'express';
+import body_parser from 'body_parser';
+import assert from 'assert';
+import webpack from 'webpack';
+import webpackMiddleware from 'webpack-dev-middleware';
+import webpackHotMiddleware from 'webpack-hot-middleware';
+import config from './webpack.config.js';
 
-var app = express();
+const mongodb = require('mongodb').MongoClient;
+const app = express();
+const compiler = webpack(config);
+
 //Configuring express to use body-parser as middlewear
 app.use(body_parser.urlencoded({ extended: false }));
 app.use(body_parser.json());
+
+//Configuring express to use webpack as middlewear
+app.use(webpackMiddleware(compiler));
+app.use(webpackHotMiddleware(compiler));
+
+//Pointing to the directory /static for static files
+app.use(express.static(__dirname + '/static'));
+
 
 //Over what port to communicate with the database,
 //and which database
@@ -51,14 +64,7 @@ function find_item(db, selector, callback) {
 
 //Simple hello world functionality to see if the server is communicating
 app.get('/', function (req, res) {
-	mongodb.connect(db_loc, function(err, db) {
-		assert.equal(err, null);
-
-		find_item(db, {}, function(result) {
-			res.send(JSON.stringify(result));
-			db.close();
-		});
-	})
+	res.sendFile(path.join(__dirname, "static/index.html"))
 });
 
 app.get('/add', function (req, res) {
@@ -85,6 +91,6 @@ app.post('/', function (req, res){
 
 //This gets the server communicating over port 3000.
 //Standard http port is port 80, will be switched to eventually.
-app.listen(3001, '0.0.0.0', function () {
+app.listen(3000, '0.0.0.0', function () {
 	console.log("successfully binded to port 3000");
 });
