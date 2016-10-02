@@ -7,8 +7,7 @@ var jsx = require('node-jsx');
 var mongodb = require('mongodb').MongoClient;
 var assert = require('assert');
 
-var app = express();
-
+var app = express(
 //Configuring express to use body-parser as middlewear
 app.use(body_parser.urlencoded({ extended: false }));
 app.use(body_parser.json());
