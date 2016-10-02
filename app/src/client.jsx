@@ -1,11 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from '../components/App.jsx'
+import Bar from '../components/Bar.jsx'
 
-export default class App extends React.Component {
-  render() {
-    return (
-      <h1>Hello, world!</h1>,
-      document.getElementById('root'
-    );
-  }
-}
+ReactDOM.render(
+  <div>
+    <Bar/>
+    <App/>
+  </div>,
+  document.getElementById('root')
+);

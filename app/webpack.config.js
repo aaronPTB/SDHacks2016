@@ -1,15 +1,19 @@
 module.exports = {
   entry: './app/src/client.jsx',
   output: {
-    path: '/public',
+    path: '/static',
     filename: 'bundle.js'
   },
   module: {
     loaders: [
       {
-        test: /\.js$/,
+        test: /\.jsx?$/,
+        loader: 'babel',
         exclude: /node_modules/,
-        loader: 'babel-loader'
+        query: {
+          cacheDirectory: true,
+          presets: ['react', 'es2015']
+        }
       }
     ]
   },
