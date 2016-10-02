@@ -1,0 +1,2409 @@
+successfully binded to port 3000
+connection with server established
+Hash: 9037f5150151cf33c923
+Version: webpack 1.13.2
+Time: 2895ms
+    Asset    Size  Chunks             Chunk Names
+bundle.js  908 kB       0  [emitted]  main
+chunk    {0} bundle.js (main) 852 kB [rendered]
+    [0] ./app/src/client.jsx 921 bytes {0} [built]
+    [1] ./~/react/react.js 56 bytes {0} [built]
+    [2] ./~/react/lib/React.js 2.72 kB {0} [built]
+    [3] ./~/process/browser.js 5.3 kB {0} [built]
+    [4] ./~/object-assign/index.js 1.99 kB {0} [built]
+    [5] ./~/react/lib/ReactChildren.js 6.22 kB {0} [built]
+    [6] ./~/react/lib/PooledClass.js 3.59 kB {0} [built]
+    [7] ./~/react/lib/reactProdInvariant.js 1.27 kB {0} [built]
+    [8] ./~/fbjs/lib/invariant.js 1.49 kB {0} [built]
+    [9] ./~/react/lib/ReactElement.js 11.7 kB {0} [built]
+   [10] ./~/react/lib/ReactCurrentOwner.js 657 bytes {0} [built]
+   [11] ./~/fbjs/lib/warning.js 2.1 kB {0} [built]
+   [12] ./~/fbjs/lib/emptyFunction.js 1.08 kB {0} [built]
+   [13] ./~/react/lib/canDefineProperty.js 632 bytes {0} [built]
+   [14] ./~/react/lib/traverseAllChildren.js 6.74 kB {0} [built]
+   [15] ./~/react/lib/getIteratorFn.js 1.15 kB {0} [built]
+   [16] ./~/react/lib/KeyEscapeUtils.js 1.33 kB {0} [built]
+   [17] ./~/react/lib/ReactComponent.js 4.64 kB {0} [built]
+   [18] ./~/react/lib/ReactNoopUpdateQueue.js 3.4 kB {0} [built]
+   [19] ./~/fbjs/lib/emptyObject.js 458 bytes {0} [built]
+   [20] ./~/react/lib/ReactPureComponent.js 1.36 kB {0} [built]
+   [21] ./~/react/lib/ReactClass.js 27.2 kB {0} [built]
+   [22] ./~/react/lib/ReactPropTypeLocations.js 552 bytes {0} [built]
+   [23] ./~/fbjs/lib/keyMirror.js 1.25 kB {0} [built]
+   [24] ./~/react/lib/ReactPropTypeLocationNames.js 614 bytes {0} [built]
+   [25] ./~/fbjs/lib/keyOf.js 1.1 kB {0} [built]
+   [26] ./~/react/lib/ReactDOMFactories.js 5.56 kB {0} [built]
+   [27] ./~/react/lib/ReactElementValidator.js 8.08 kB {0} [built]
+   [28] ./~/react/lib/ReactComponentTreeHook.js 10.1 kB {0} [built]
+   [29] ./~/react/lib/checkReactTypeSpec.js 4.23 kB {0} [built]
+   [30] ./~/react/lib/ReactPropTypesSecret.js 478 bytes {0} [built]
+   [31] ./~/react/lib/ReactPropTypes.js 15.6 kB {0} [built]
+   [32] ./~/react/lib/ReactVersion.js 382 bytes {0} [built]
+   [33] ./~/react/lib/onlyChild.js 1.37 kB {0} [built]
+   [34] ./~/react-dom/index.js 63 bytes {0} [built]
+   [35] ./~/react/lib/ReactDOM.js 5.08 kB {0} [built]
+   [36] ./~/react/lib/ReactDOMComponentTree.js 6.2 kB {0} [built]
+   [37] ./~/react/lib/DOMProperty.js 8.13 kB {0} [built]
+   [38] ./~/react/lib/ReactDOMComponentFlags.js 471 bytes {0} [built]
+   [39] ./~/react/lib/ReactDefaultInjection.js 3.4 kB {0} [built]
+   [40] ./~/react/lib/BeforeInputEventPlugin.js 14 kB {0} [built]
+   [41] ./~/react/lib/EventConstants.js 2.17 kB {0} [built]
+   [42] ./~/react/lib/EventPropagators.js 5.32 kB {0} [built]
+   [43] ./~/react/lib/EventPluginHub.js 8.32 kB {0} [built]
+   [44] ./~/react/lib/EventPluginRegistry.js 9.48 kB {0} [built]
+   [45] ./~/react/lib/EventPluginUtils.js 8.17 kB {0} [built]
+   [46] ./~/react/lib/ReactErrorUtils.js 2.26 kB {0} [built]
+   [47] ./~/react/lib/accumulateInto.js 1.73 kB {0} [built]
+   [48] ./~/react/lib/forEachAccumulated.js 893 bytes {0} [built]
+   [49] ./~/fbjs/lib/ExecutionEnvironment.js 1.06 kB {0} [built]
+   [50] ./~/react/lib/FallbackCompositionState.js 2.47 kB {0} [built]
+   [51] ./~/react/lib/getTextContentAccessor.js 997 bytes {0} [built]
+   [52] ./~/react/lib/SyntheticCompositionEvent.js 1.14 kB {0} [built]
+   [53] ./~/react/lib/SyntheticEvent.js 9.21 kB {0} [built]
+   [54] ./~/react/lib/SyntheticInputEvent.js 1.13 kB {0} [built]
+   [55] ./~/react/lib/ChangeEventPlugin.js 11.5 kB {0} [built]
+   [56] ./~/react/lib/ReactUpdates.js 9.6 kB {0} [built]
+   [57] ./~/react/lib/CallbackQueue.js 2.73 kB {0} [built]
+   [58] ./~/react/lib/ReactFeatureFlags.js 665 bytes {0} [built]
+   [59] ./~/react/lib/ReactReconciler.js 6.25 kB {0} [built]
+   [60] ./~/react/lib/ReactRef.js 2.47 kB {0} [built]
+   [61] ./~/react/lib/ReactOwner.js 3.6 kB {0} [built]
+   [62] ./~/react/lib/ReactInstrumentation.js 559 bytes {0} [built]
+   [63] ./~/react/lib/ReactDebugTool.js 9.8 kB {0} [built]
+   [64] ./~/react/lib/ReactInvalidSetStateWarningHook.js 1.03 kB {0} [built]
+   [65] ./~/react/lib/ReactHostOperationHistoryHook.js 860 bytes {0} [built]
+   [66] ./~/react/lib/ReactChildrenMutationWarningHook.js 1.66 kB {0} [built]
+   [67] ./~/fbjs/lib/performanceNow.js 845 bytes {0} [built]
+   [68] ./~/fbjs/lib/performance.js 588 bytes {0} [built]
+   [69] ./~/react/lib/Transaction.js 9.61 kB {0} [built]
+   [70] ./~/react/lib/getEventTarget.js 1.04 kB {0} [built]
+   [71] ./~/react/lib/isEventSupported.js 1.97 kB {0} [built]
+   [72] ./~/react/lib/isTextInputElement.js 1.08 kB {0} [built]
+   [73] ./~/react/lib/DefaultEventPluginOrder.js 1.26 kB {0} [built]
+   [74] ./~/react/lib/EnterLeaveEventPlugin.js 3.46 kB {0} [built]
+   [75] ./~/react/lib/SyntheticMouseEvent.js 2.18 kB {0} [built]
+   [76] ./~/react/lib/SyntheticUIEvent.js 1.61 kB {0} [built]
+   [77] ./~/react/lib/ViewportMetrics.js 641 bytes {0} [built]
+   [78] ./~/react/lib/getEventModifierState.js 1.27 kB {0} [built]
+   [79] ./~/react/lib/HTMLDOMPropertyConfig.js 5.49 kB {0} [built]
+   [80] ./~/react/lib/ReactComponentBrowserEnvironment.js 958 bytes {0} [built]
+   [81] ./~/react/lib/DOMChildrenOperations.js 7.3 kB {0} [built]
+   [82] ./~/react/lib/DOMLazyTree.js 3.75 kB {0} [built]
+   [83] ./~/react/lib/DOMNamespaces.js 538 bytes {0} [built]
+   [84] ./~/react/lib/setInnerHTML.js 3.89 kB {0} [built]
+   [85] ./~/react/lib/createMicrosoftUnsafeLocalFunction.js 864 bytes {0} [built]
+   [86] ./~/react/lib/setTextContent.js 1.4 kB {0} [built]
+   [87] ./~/react/lib/escapeTextContentForBrowser.js 3.48 kB {0} [built]
+   [88] ./~/react/lib/Danger.js 2.27 kB {0} [built]
+   [89] ./~/fbjs/lib/createNodesFromMarkup.js 2.66 kB {0} [built]
+   [90] ./~/fbjs/lib/createArrayFromMixed.js 4.11 kB {0} [built]
+   [91] ./~/fbjs/lib/getMarkupWrap.js 3.04 kB {0} [built]
+   [92] ./~/react/lib/ReactMultiChildUpdateTypes.js 864 bytes {0} [built]
+   [93] ./~/react/lib/ReactDOMIDOperations.js 996 bytes {0} [built]
+   [94] ./~/react/lib/ReactDOMComponent.js 38.9 kB {0} [built]
+   [95] ./~/react/lib/AutoFocusUtils.js 633 bytes {0} [built]
+   [96] ./~/fbjs/lib/focusNode.js 704 bytes {0} [built]
+   [97] ./~/react/lib/CSSPropertyOperations.js 6.85 kB {0} [built]
+   [98] ./~/react/lib/CSSProperty.js 3.69 kB {0} [built]
+   [99] ./~/fbjs/lib/camelizeStyleName.js 1 kB {0} [built]
+  [100] ./~/fbjs/lib/camelize.js 708 bytes {0} [built]
+  [101] ./~/react/lib/dangerousStyleValue.js 3.06 kB {0} [built]
+  [102] ./~/fbjs/lib/hyphenateStyleName.js 974 bytes {0} [built]
+  [103] ./~/fbjs/lib/hyphenate.js 800 bytes {0} [built]
+  [104] ./~/fbjs/lib/memoizeStringOnly.js 698 bytes {0} [built]
+  [105] ./~/react/lib/DOMPropertyOperations.js 7.41 kB {0} [built]
+  [106] ./~/react/lib/quoteAttributeValueForBrowser.js 749 bytes {0} [built]
+  [107] ./~/react/lib/ReactBrowserEventEmitter.js 12.9 kB {0} [built]
+  [108] ./~/react/lib/ReactEventEmitterMixin.js 1 kB {0} [built]
+  [109] ./~/react/lib/getVendorPrefixedEventName.js 2.92 kB {0} [built]
+  [110] ./~/react/lib/ReactDOMButton.js 634 bytes {0} [built]
+  [111] ./~/react/lib/DisabledInputUtils.js 1.16 kB {0} [built]
+  [112] ./~/react/lib/ReactDOMInput.js 12.1 kB {0} [built]
+  [113] ./~/react/lib/LinkedValueUtils.js 5.28 kB {0} [built]
+  [114] ./~/react/lib/ReactDOMOption.js 3.73 kB {0} [built]
+  [115] ./~/react/lib/ReactDOMSelect.js 6.94 kB {0} [built]
+  [116] ./~/react/lib/ReactDOMTextarea.js 6.36 kB {0} [built]
+  [117] ./~/react/lib/ReactMultiChild.js 14.8 kB {0} [built]
+  [118] ./~/react/lib/ReactComponentEnvironment.js 1.34 kB {0} [built]
+  [119] ./~/react/lib/ReactInstanceMap.js 1.26 kB {0} [built]
+  [120] ./~/react/lib/ReactChildReconciler.js 6.13 kB {0} [built]
+  [121] ./~/react/lib/instantiateReactComponent.js 4.81 kB {0} [built]
+  [122] ./~/react/lib/ReactCompositeComponent.js 35.4 kB {0} [built]
+  [123] ./~/react/lib/ReactNodeTypes.js 1.06 kB {0} [built]
+  [124] ./~/fbjs/lib/shallowEqual.js 1.74 kB {0} [built]
+  [125] ./~/react/lib/shouldUpdateReactComponent.js 1.45 kB {0} [built]
+  [126] ./~/react/lib/ReactEmptyComponent.js 743 bytes {0} [built]
+  [127] ./~/react/lib/ReactHostComponent.js 2.42 kB {0} [built]
+  [128] ./~/react/lib/flattenChildren.js 2.79 kB {0} [built]
+  [129] ./~/react/lib/ReactServerRenderingTransaction.js 2.35 kB {0} [built]
+  [130] ./~/react/lib/ReactServerUpdateQueue.js 4.95 kB {0} [built]
+  [131] ./~/react/lib/ReactUpdateQueue.js 9.03 kB {0} [built]
+  [132] ./~/react/lib/validateDOMNesting.js 13.7 kB {0} [built]
+  [133] ./~/react/lib/ReactDOMEmptyComponent.js 1.94 kB {0} [built]
+  [134] ./~/react/lib/ReactDOMTreeTraversal.js 3.74 kB {0} [built]
+  [135] ./~/react/lib/ReactDOMTextComponent.js 5.86 kB {0} [built]
+  [136] ./~/react/lib/ReactDefaultBatchingStrategy.js 1.92 kB {0} [built]
+  [137] ./~/react/lib/ReactEventListener.js 5.38 kB {0} [built]
+  [138] ./~/fbjs/lib/EventListener.js 2.67 kB {0} [built]
+  [139] ./~/fbjs/lib/getUnboundedScrollPosition.js 1.05 kB {0} [built]
+  [140] ./~/react/lib/ReactInjection.js 1.31 kB {0} [built]
+  [141] ./~/react/lib/ReactReconcileTransaction.js 5.31 kB {0} [built]
+  [142] ./~/react/lib/ReactInputSelection.js 4.31 kB {0} [built]
+  [143] ./~/react/lib/ReactDOMSelection.js 6.81 kB {0} [built]
+  [144] ./~/react/lib/getNodeForCharacterOffset.js 1.66 kB {0} [built]
+  [145] ./~/fbjs/lib/containsNode.js 1.05 kB {0} [built]
+  [146] ./~/fbjs/lib/isTextNode.js 605 bytes {0} [built]
+  [147] ./~/fbjs/lib/isNode.js 693 bytes {0} [built]
+  [148] ./~/fbjs/lib/getActiveElement.js 895 bytes {0} [built]
+  [149] ./~/react/lib/SVGDOMPropertyConfig.js 7.36 kB {0} [built]
+  [150] ./~/react/lib/SelectEventPlugin.js 6.51 kB {0} [built]
+  [151] ./~/react/lib/SimpleEventPlugin.js 18.9 kB {0} [built]
+  [152] ./~/react/lib/SyntheticAnimationEvent.js 1.25 kB {0} [built]
+  [153] ./~/react/lib/SyntheticClipboardEvent.js 1.21 kB {0} [built]
+  [154] ./~/react/lib/SyntheticFocusEvent.js 1.1 kB {0} [built]
+  [155] ./~/react/lib/SyntheticKeyboardEvent.js 2.75 kB {0} [built]
+  [156] ./~/react/lib/getEventCharCode.js 1.54 kB {0} [built]
+  [157] ./~/react/lib/getEventKey.js 2.9 kB {0} [built]
+  [158] ./~/react/lib/SyntheticDragEvent.js 1.11 kB {0} [built]
+  [159] ./~/react/lib/SyntheticTouchEvent.js 1.32 kB {0} [built]
+  [160] ./~/react/lib/SyntheticTransitionEvent.js 1.27 kB {0} [built]
+  [161] ./~/react/lib/SyntheticWheelEvent.js 1.98 kB {0} [built]
+  [162] ./~/react/lib/ReactMount.js 25.5 kB {0} [built]
+  [163] ./~/react/lib/ReactDOMContainerInfo.js 1.01 kB {0} [built]
+  [164] ./~/react/lib/ReactDOMFeatureFlags.js 460 bytes {0} [built]
+  [165] ./~/react/lib/ReactMarkupChecksum.js 1.51 kB {0} [built]
+  [166] ./~/react/lib/adler32.js 1.22 kB {0} [built]
+  [167] ./~/react/lib/findDOMNode.js 2.49 kB {0} [built]
+  [168] ./~/react/lib/getHostComponentFromComposite.js 789 bytes {0} [built]
+  [169] ./~/react/lib/renderSubtreeIntoContainer.js 466 bytes {0} [built]
+  [170] ./~/react/lib/ReactDOMUnknownPropertyHook.js 4.36 kB {0} [built]
+  [171] ./~/react/lib/ReactDOMNullInputValuePropHook.js 1.41 kB {0} [built]
+  [172] ./app/components/Bar.jsx 2.59 kB {0} [built]
+  [173] ./app/components/Main.jsx 2.74 kB {0} [built]
+  [174] ./app/components/Styles.jsx 749 bytes {0} [built]
+  [175] ./~/react-native/Libraries/react-native/react-native.js 9.16 kB {0} [built] [92 errors]
+  [176] ./~/react/lib/LinkedStateMixin.js 1.2 kB {0} [built]
+  [177] ./~/react/lib/ReactLink.js 2.13 kB {0} [built]
+  [178] ./~/react/lib/ReactStateSetters.js 3.68 kB {0} [built]
+  [179] ./~/react/lib/ReactComponentWithPureRenderMixin.js 1.58 kB {0} [built]
+  [180] ./~/react/lib/shallowCompare.js 768 bytes {0} [built]
+  [181] ./~/react/lib/ReactFragment.js 2.67 kB {0} [built]
+  [182] ./~/react/lib/update.js 5.33 kB {0} [built]
+  [183] ./~/react/lib/ReactNative.js 2.36 kB {0} [built]
+  [184] ./~/react/lib/ReactNativeComponentTree.js 1.84 kB {0} [built]
+  [185] ./~/react/lib/ReactNativeDefaultInjection.js 4.28 kB {0} [built]
+  [186] ./~/react-native/lib/InitializeJavaScriptAppEngine.js 497 bytes {0} [built] [1 error]
+  [187] ./~/react-native/lib/RCTEventEmitter.js 483 bytes {0} [built] [1 error]
+  [188] ./~/react/lib/ReactNativeBridgeEventPlugin.js 2.32 kB {0} [built]
+  [189] ./~/react-native/lib/UIManager.js 477 bytes {0} [built] [1 error]
+  [190] ./~/react/lib/ReactNativeComponentEnvironment.js 978 bytes {0} [built]
+  [191] ./~/react/lib/ReactNativeDOMIDOperations.js 2.98 kB {0} [built]
+  [192] ./~/react/lib/ReactNativeReconcileTransaction.js 3.62 kB {0} [built]
+  [193] ./~/react/lib/ReactNativeEventEmitter.js 7.32 kB {0} [built]
+  [194] ./~/react/lib/ReactNativeTagHandles.js 2.04 kB {0} [built]
+  [195] ./~/react/lib/ReactNativeEventPluginOrder.js 516 bytes {0} [built]
+  [196] ./~/react/lib/ReactNativeGlobalResponderHandler.js 741 bytes {0} [built]
+  [197] ./~/react/lib/ReactNativeTextComponent.js 2.38 kB {0} [built]
+  [198] ./~/react/lib/ReactNativeTreeTraversal.js 2.92 kB {0} [built]
+  [199] ./~/react/lib/ReactSimpleEmptyComponent.js 1.28 kB {0} [built]
+  [200] ./~/react/lib/ResponderEventPlugin.js 24.5 kB {0} [built]
+  [201] ./~/react/lib/ResponderSyntheticEvent.js 1.34 kB {0} [built]
+  [202] ./~/react/lib/ResponderTouchHistoryStore.js 6.69 kB {0} [built]
+  [203] ./~/react/lib/accumulate.js 1.26 kB {0} [built]
+  [204] ./~/react-native/lib/View.js 472 bytes {0} [built] [1 error]
+  [205] ./~/react/lib/ReactNativeMount.js 7.34 kB {0} [built]
+  [206] ./~/react/lib/ReactNativeContainerInfo.js 510 bytes {0} [built]
+  [207] ./~/react/lib/findNodeHandle.js 4.07 kB {0} [built]
+  [208] ./~/react/lib/ReactPerf.js 14.7 kB {0} [built]
+  [209] ./~/react/lib/ReactTestUtils.js 19.7 kB {0} [built]
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActivityIndicator' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 30:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActivityIndicatorIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 31:38-69
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ReactNativeART' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 32:21-46
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DatePickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 33:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DrawerLayoutAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 34:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Image' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 35:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImageEditor' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 36:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImageStore' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 37:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'KeyboardAvoidingView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 38:38-69
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ListView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 39:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'MapView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 40:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Modal' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 41:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Navigator' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 42:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NavigatorIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 43:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Picker' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 44:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 45:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ProgressBarAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 46:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ProgressViewIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 47:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ScrollView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 48:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SegmentedControlIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 49:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Slider' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 50:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SliderIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 51:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SnapshotViewIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 52:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Switch' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 53:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RecyclerViewBackedScrollView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 54:46-85
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RefreshControl' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 55:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StatusBar' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 56:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwipeableListView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 57:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwitchAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 58:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwitchIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 59:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TabBarIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 60:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Text' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 61:22-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TextInput' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 62:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ToastAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 63:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ToolbarAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 64:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Touchable' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 65:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableHighlight' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 66:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableNativeFeedback' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 67:41-75
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableOpacity' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 68:34-61
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableWithoutFeedback' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 69:42-77
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'View' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 70:22-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ViewPagerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 71:34-61
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'WebView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 72:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActionSheetIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 75:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AdSupportIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 76:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Alert' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 77:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AlertIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 78:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Animated' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 79:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppRegistry' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 80:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppState' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 81:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppStateIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 82:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AsyncStorage' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 83:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'BackAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 84:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'CameraRoll' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 85:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Clipboard' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 86:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DatePickerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 87:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Dimensions' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 88:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Easing' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 89:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'I18nManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 90:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImagePickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 91:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'IntentAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 92:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'InteractionManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 93:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Keyboard' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 94:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'LayoutAnimation' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 95:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Linking' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 96:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'LinkingIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 97:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NativeEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 98:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NavigationExperimental' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 99:40-73
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NetInfo' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 100:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PanResponder' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 101:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PermissionsAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 102:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PixelRatio' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 103:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PushNotificationIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 104:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Settings' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 105:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Share' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 106:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StatusBarIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 107:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StyleSheet' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 108:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Systrace' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 109:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TimePickerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 110:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'UIManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 111:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Vibration' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 112:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'VibrationIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 113:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RCTDeviceEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 116:36-68
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RCTNativeAppEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 117:39-74
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NativeModules' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 118:31-55 152:13-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Platform' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 119:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'processColor' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 120:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'requireNativeComponent' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 121:40-73
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ColorPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 124:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'EdgeInsetsPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 125:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PointPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 126:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'throwOnWrongReactAPI' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 183:31-62
+
+ERROR in ./~/react-native/lib/View.js
+Module not found: Error: Cannot resolve module 'View' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/View.js 15:17-32
+
+ERROR in ./~/react-native/lib/UIManager.js
+Module not found: Error: Cannot resolve module 'UIManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/UIManager.js 15:17-37
+
+ERROR in ./~/react-native/lib/InitializeJavaScriptAppEngine.js
+Module not found: Error: Cannot resolve module 'InitializeJavaScriptAppEngine' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/InitializeJavaScriptAppEngine.js 15:17-57
+
+ERROR in ./~/react-native/lib/RCTEventEmitter.js
+Module not found: Error: Cannot resolve module 'RCTEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/RCTEventEmitter.js 15:17-43
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+Hash: 9037f5150151cf33c923
+Version: webpack 1.13.2
+Time: 551ms
+    Asset    Size  Chunks       Chunk Names
+bundle.js  908 kB       0       main
+chunk    {0} bundle.js (main) 852 kB
+    [0] ./app/src/client.jsx 921 bytes {0}
+    [1] ./~/react/react.js 56 bytes {0}
+    [2] ./~/react/lib/React.js 2.72 kB {0}
+    [3] ./~/process/browser.js 5.3 kB {0}
+    [4] ./~/object-assign/index.js 1.99 kB {0}
+    [5] ./~/react/lib/ReactChildren.js 6.22 kB {0}
+    [6] ./~/react/lib/PooledClass.js 3.59 kB {0}
+    [7] ./~/react/lib/reactProdInvariant.js 1.27 kB {0}
+    [8] ./~/fbjs/lib/invariant.js 1.49 kB {0}
+    [9] ./~/react/lib/ReactElement.js 11.7 kB {0}
+   [10] ./~/react/lib/ReactCurrentOwner.js 657 bytes {0}
+   [11] ./~/fbjs/lib/warning.js 2.1 kB {0}
+   [12] ./~/fbjs/lib/emptyFunction.js 1.08 kB {0}
+   [13] ./~/react/lib/canDefineProperty.js 632 bytes {0}
+   [14] ./~/react/lib/traverseAllChildren.js 6.74 kB {0}
+   [15] ./~/react/lib/getIteratorFn.js 1.15 kB {0}
+   [16] ./~/react/lib/KeyEscapeUtils.js 1.33 kB {0}
+   [17] ./~/react/lib/ReactComponent.js 4.64 kB {0}
+   [18] ./~/react/lib/ReactNoopUpdateQueue.js 3.4 kB {0}
+   [19] ./~/fbjs/lib/emptyObject.js 458 bytes {0}
+   [20] ./~/react/lib/ReactPureComponent.js 1.36 kB {0}
+   [21] ./~/react/lib/ReactClass.js 27.2 kB {0}
+   [22] ./~/react/lib/ReactPropTypeLocations.js 552 bytes {0}
+   [23] ./~/fbjs/lib/keyMirror.js 1.25 kB {0}
+   [24] ./~/react/lib/ReactPropTypeLocationNames.js 614 bytes {0}
+   [25] ./~/fbjs/lib/keyOf.js 1.1 kB {0}
+   [26] ./~/react/lib/ReactDOMFactories.js 5.56 kB {0}
+   [27] ./~/react/lib/ReactElementValidator.js 8.08 kB {0}
+   [28] ./~/react/lib/ReactComponentTreeHook.js 10.1 kB {0}
+   [29] ./~/react/lib/checkReactTypeSpec.js 4.23 kB {0}
+   [30] ./~/react/lib/ReactPropTypesSecret.js 478 bytes {0}
+   [31] ./~/react/lib/ReactPropTypes.js 15.6 kB {0}
+   [32] ./~/react/lib/ReactVersion.js 382 bytes {0}
+   [33] ./~/react/lib/onlyChild.js 1.37 kB {0}
+   [34] ./~/react-dom/index.js 63 bytes {0}
+   [35] ./~/react/lib/ReactDOM.js 5.08 kB {0}
+   [36] ./~/react/lib/ReactDOMComponentTree.js 6.2 kB {0}
+   [37] ./~/react/lib/DOMProperty.js 8.13 kB {0}
+   [38] ./~/react/lib/ReactDOMComponentFlags.js 471 bytes {0}
+   [39] ./~/react/lib/ReactDefaultInjection.js 3.4 kB {0}
+   [40] ./~/react/lib/BeforeInputEventPlugin.js 14 kB {0}
+   [41] ./~/react/lib/EventConstants.js 2.17 kB {0}
+   [42] ./~/react/lib/EventPropagators.js 5.32 kB {0}
+   [43] ./~/react/lib/EventPluginHub.js 8.32 kB {0}
+   [44] ./~/react/lib/EventPluginRegistry.js 9.48 kB {0}
+   [45] ./~/react/lib/EventPluginUtils.js 8.17 kB {0}
+   [46] ./~/react/lib/ReactErrorUtils.js 2.26 kB {0}
+   [47] ./~/react/lib/accumulateInto.js 1.73 kB {0}
+   [48] ./~/react/lib/forEachAccumulated.js 893 bytes {0}
+   [49] ./~/fbjs/lib/ExecutionEnvironment.js 1.06 kB {0}
+   [50] ./~/react/lib/FallbackCompositionState.js 2.47 kB {0}
+   [51] ./~/react/lib/getTextContentAccessor.js 997 bytes {0}
+   [52] ./~/react/lib/SyntheticCompositionEvent.js 1.14 kB {0}
+   [53] ./~/react/lib/SyntheticEvent.js 9.21 kB {0}
+   [54] ./~/react/lib/SyntheticInputEvent.js 1.13 kB {0}
+   [55] ./~/react/lib/ChangeEventPlugin.js 11.5 kB {0}
+   [56] ./~/react/lib/ReactUpdates.js 9.6 kB {0}
+   [57] ./~/react/lib/CallbackQueue.js 2.73 kB {0}
+   [58] ./~/react/lib/ReactFeatureFlags.js 665 bytes {0}
+   [59] ./~/react/lib/ReactReconciler.js 6.25 kB {0}
+   [60] ./~/react/lib/ReactRef.js 2.47 kB {0}
+   [61] ./~/react/lib/ReactOwner.js 3.6 kB {0}
+   [62] ./~/react/lib/ReactInstrumentation.js 559 bytes {0}
+   [63] ./~/react/lib/ReactDebugTool.js 9.8 kB {0}
+   [64] ./~/react/lib/ReactInvalidSetStateWarningHook.js 1.03 kB {0}
+   [65] ./~/react/lib/ReactHostOperationHistoryHook.js 860 bytes {0}
+   [66] ./~/react/lib/ReactChildrenMutationWarningHook.js 1.66 kB {0}
+   [67] ./~/fbjs/lib/performanceNow.js 845 bytes {0}
+   [68] ./~/fbjs/lib/performance.js 588 bytes {0}
+   [69] ./~/react/lib/Transaction.js 9.61 kB {0}
+   [70] ./~/react/lib/getEventTarget.js 1.04 kB {0}
+   [71] ./~/react/lib/isEventSupported.js 1.97 kB {0}
+   [72] ./~/react/lib/isTextInputElement.js 1.08 kB {0}
+   [73] ./~/react/lib/DefaultEventPluginOrder.js 1.26 kB {0}
+   [74] ./~/react/lib/EnterLeaveEventPlugin.js 3.46 kB {0}
+   [75] ./~/react/lib/SyntheticMouseEvent.js 2.18 kB {0}
+   [76] ./~/react/lib/SyntheticUIEvent.js 1.61 kB {0}
+   [77] ./~/react/lib/ViewportMetrics.js 641 bytes {0}
+   [78] ./~/react/lib/getEventModifierState.js 1.27 kB {0}
+   [79] ./~/react/lib/HTMLDOMPropertyConfig.js 5.49 kB {0}
+   [80] ./~/react/lib/ReactComponentBrowserEnvironment.js 958 bytes {0}
+   [81] ./~/react/lib/DOMChildrenOperations.js 7.3 kB {0}
+   [82] ./~/react/lib/DOMLazyTree.js 3.75 kB {0}
+   [83] ./~/react/lib/DOMNamespaces.js 538 bytes {0}
+   [84] ./~/react/lib/setInnerHTML.js 3.89 kB {0}
+   [85] ./~/react/lib/createMicrosoftUnsafeLocalFunction.js 864 bytes {0}
+   [86] ./~/react/lib/setTextContent.js 1.4 kB {0}
+   [87] ./~/react/lib/escapeTextContentForBrowser.js 3.48 kB {0}
+   [88] ./~/react/lib/Danger.js 2.27 kB {0}
+   [89] ./~/fbjs/lib/createNodesFromMarkup.js 2.66 kB {0}
+   [90] ./~/fbjs/lib/createArrayFromMixed.js 4.11 kB {0}
+   [91] ./~/fbjs/lib/getMarkupWrap.js 3.04 kB {0}
+   [92] ./~/react/lib/ReactMultiChildUpdateTypes.js 864 bytes {0}
+   [93] ./~/react/lib/ReactDOMIDOperations.js 996 bytes {0}
+   [94] ./~/react/lib/ReactDOMComponent.js 38.9 kB {0}
+   [95] ./~/react/lib/AutoFocusUtils.js 633 bytes {0}
+   [96] ./~/fbjs/lib/focusNode.js 704 bytes {0}
+   [97] ./~/react/lib/CSSPropertyOperations.js 6.85 kB {0}
+   [98] ./~/react/lib/CSSProperty.js 3.69 kB {0}
+   [99] ./~/fbjs/lib/camelizeStyleName.js 1 kB {0}
+  [100] ./~/fbjs/lib/camelize.js 708 bytes {0}
+  [101] ./~/react/lib/dangerousStyleValue.js 3.06 kB {0}
+  [102] ./~/fbjs/lib/hyphenateStyleName.js 974 bytes {0}
+  [103] ./~/fbjs/lib/hyphenate.js 800 bytes {0}
+  [104] ./~/fbjs/lib/memoizeStringOnly.js 698 bytes {0}
+  [105] ./~/react/lib/DOMPropertyOperations.js 7.41 kB {0}
+  [106] ./~/react/lib/quoteAttributeValueForBrowser.js 749 bytes {0}
+  [107] ./~/react/lib/ReactBrowserEventEmitter.js 12.9 kB {0}
+  [108] ./~/react/lib/ReactEventEmitterMixin.js 1 kB {0}
+  [109] ./~/react/lib/getVendorPrefixedEventName.js 2.92 kB {0}
+  [110] ./~/react/lib/ReactDOMButton.js 634 bytes {0}
+  [111] ./~/react/lib/DisabledInputUtils.js 1.16 kB {0}
+  [112] ./~/react/lib/ReactDOMInput.js 12.1 kB {0}
+  [113] ./~/react/lib/LinkedValueUtils.js 5.28 kB {0}
+  [114] ./~/react/lib/ReactDOMOption.js 3.73 kB {0}
+  [115] ./~/react/lib/ReactDOMSelect.js 6.94 kB {0}
+  [116] ./~/react/lib/ReactDOMTextarea.js 6.36 kB {0}
+  [117] ./~/react/lib/ReactMultiChild.js 14.8 kB {0}
+  [118] ./~/react/lib/ReactComponentEnvironment.js 1.34 kB {0}
+  [119] ./~/react/lib/ReactInstanceMap.js 1.26 kB {0}
+  [120] ./~/react/lib/ReactChildReconciler.js 6.13 kB {0}
+  [121] ./~/react/lib/instantiateReactComponent.js 4.81 kB {0}
+  [122] ./~/react/lib/ReactCompositeComponent.js 35.4 kB {0}
+  [123] ./~/react/lib/ReactNodeTypes.js 1.06 kB {0}
+  [124] ./~/fbjs/lib/shallowEqual.js 1.74 kB {0}
+  [125] ./~/react/lib/shouldUpdateReactComponent.js 1.45 kB {0}
+  [126] ./~/react/lib/ReactEmptyComponent.js 743 bytes {0}
+  [127] ./~/react/lib/ReactHostComponent.js 2.42 kB {0}
+  [128] ./~/react/lib/flattenChildren.js 2.79 kB {0}
+  [129] ./~/react/lib/ReactServerRenderingTransaction.js 2.35 kB {0}
+  [130] ./~/react/lib/ReactServerUpdateQueue.js 4.95 kB {0}
+  [131] ./~/react/lib/ReactUpdateQueue.js 9.03 kB {0}
+  [132] ./~/react/lib/validateDOMNesting.js 13.7 kB {0}
+  [133] ./~/react/lib/ReactDOMEmptyComponent.js 1.94 kB {0}
+  [134] ./~/react/lib/ReactDOMTreeTraversal.js 3.74 kB {0}
+  [135] ./~/react/lib/ReactDOMTextComponent.js 5.86 kB {0}
+  [136] ./~/react/lib/ReactDefaultBatchingStrategy.js 1.92 kB {0}
+  [137] ./~/react/lib/ReactEventListener.js 5.38 kB {0}
+  [138] ./~/fbjs/lib/EventListener.js 2.67 kB {0}
+  [139] ./~/fbjs/lib/getUnboundedScrollPosition.js 1.05 kB {0}
+  [140] ./~/react/lib/ReactInjection.js 1.31 kB {0}
+  [141] ./~/react/lib/ReactReconcileTransaction.js 5.31 kB {0}
+  [142] ./~/react/lib/ReactInputSelection.js 4.31 kB {0}
+  [143] ./~/react/lib/ReactDOMSelection.js 6.81 kB {0}
+  [144] ./~/react/lib/getNodeForCharacterOffset.js 1.66 kB {0}
+  [145] ./~/fbjs/lib/containsNode.js 1.05 kB {0}
+  [146] ./~/fbjs/lib/isTextNode.js 605 bytes {0}
+  [147] ./~/fbjs/lib/isNode.js 693 bytes {0}
+  [148] ./~/fbjs/lib/getActiveElement.js 895 bytes {0}
+  [149] ./~/react/lib/SVGDOMPropertyConfig.js 7.36 kB {0}
+  [150] ./~/react/lib/SelectEventPlugin.js 6.51 kB {0}
+  [151] ./~/react/lib/SimpleEventPlugin.js 18.9 kB {0}
+  [152] ./~/react/lib/SyntheticAnimationEvent.js 1.25 kB {0}
+  [153] ./~/react/lib/SyntheticClipboardEvent.js 1.21 kB {0}
+  [154] ./~/react/lib/SyntheticFocusEvent.js 1.1 kB {0}
+  [155] ./~/react/lib/SyntheticKeyboardEvent.js 2.75 kB {0}
+  [156] ./~/react/lib/getEventCharCode.js 1.54 kB {0}
+  [157] ./~/react/lib/getEventKey.js 2.9 kB {0}
+  [158] ./~/react/lib/SyntheticDragEvent.js 1.11 kB {0}
+  [159] ./~/react/lib/SyntheticTouchEvent.js 1.32 kB {0}
+  [160] ./~/react/lib/SyntheticTransitionEvent.js 1.27 kB {0}
+  [161] ./~/react/lib/SyntheticWheelEvent.js 1.98 kB {0}
+  [162] ./~/react/lib/ReactMount.js 25.5 kB {0}
+  [163] ./~/react/lib/ReactDOMContainerInfo.js 1.01 kB {0}
+  [164] ./~/react/lib/ReactDOMFeatureFlags.js 460 bytes {0}
+  [165] ./~/react/lib/ReactMarkupChecksum.js 1.51 kB {0}
+  [166] ./~/react/lib/adler32.js 1.22 kB {0}
+  [167] ./~/react/lib/findDOMNode.js 2.49 kB {0}
+  [168] ./~/react/lib/getHostComponentFromComposite.js 789 bytes {0}
+  [169] ./~/react/lib/renderSubtreeIntoContainer.js 466 bytes {0}
+  [170] ./~/react/lib/ReactDOMUnknownPropertyHook.js 4.36 kB {0}
+  [171] ./~/react/lib/ReactDOMNullInputValuePropHook.js 1.41 kB {0}
+  [172] ./app/components/Bar.jsx 2.59 kB {0}
+  [173] ./app/components/Main.jsx 2.74 kB {0}
+  [174] ./app/components/Styles.jsx 749 bytes {0} [built]
+  [175] ./~/react-native/Libraries/react-native/react-native.js 9.16 kB {0} [184 errors]
+  [176] ./~/react/lib/LinkedStateMixin.js 1.2 kB {0}
+  [177] ./~/react/lib/ReactLink.js 2.13 kB {0}
+  [178] ./~/react/lib/ReactStateSetters.js 3.68 kB {0}
+  [179] ./~/react/lib/ReactComponentWithPureRenderMixin.js 1.58 kB {0}
+  [180] ./~/react/lib/shallowCompare.js 768 bytes {0}
+  [181] ./~/react/lib/ReactFragment.js 2.67 kB {0}
+  [182] ./~/react/lib/update.js 5.33 kB {0}
+  [183] ./~/react/lib/ReactNative.js 2.36 kB {0}
+  [184] ./~/react/lib/ReactNativeComponentTree.js 1.84 kB {0}
+  [185] ./~/react/lib/ReactNativeDefaultInjection.js 4.28 kB {0}
+  [186] ./~/react-native/lib/InitializeJavaScriptAppEngine.js 497 bytes {0} [2 errors]
+  [187] ./~/react-native/lib/RCTEventEmitter.js 483 bytes {0} [2 errors]
+  [188] ./~/react/lib/ReactNativeBridgeEventPlugin.js 2.32 kB {0}
+  [189] ./~/react-native/lib/UIManager.js 477 bytes {0} [2 errors]
+  [190] ./~/react/lib/ReactNativeComponentEnvironment.js 978 bytes {0}
+  [191] ./~/react/lib/ReactNativeDOMIDOperations.js 2.98 kB {0}
+  [192] ./~/react/lib/ReactNativeReconcileTransaction.js 3.62 kB {0}
+  [193] ./~/react/lib/ReactNativeEventEmitter.js 7.32 kB {0}
+  [194] ./~/react/lib/ReactNativeTagHandles.js 2.04 kB {0}
+  [195] ./~/react/lib/ReactNativeEventPluginOrder.js 516 bytes {0}
+  [196] ./~/react/lib/ReactNativeGlobalResponderHandler.js 741 bytes {0}
+  [197] ./~/react/lib/ReactNativeTextComponent.js 2.38 kB {0}
+  [198] ./~/react/lib/ReactNativeTreeTraversal.js 2.92 kB {0}
+  [199] ./~/react/lib/ReactSimpleEmptyComponent.js 1.28 kB {0}
+  [200] ./~/react/lib/ResponderEventPlugin.js 24.5 kB {0}
+  [201] ./~/react/lib/ResponderSyntheticEvent.js 1.34 kB {0}
+  [202] ./~/react/lib/ResponderTouchHistoryStore.js 6.69 kB {0}
+  [203] ./~/react/lib/accumulate.js 1.26 kB {0}
+  [204] ./~/react-native/lib/View.js 472 bytes {0} [2 errors]
+  [205] ./~/react/lib/ReactNativeMount.js 7.34 kB {0}
+  [206] ./~/react/lib/ReactNativeContainerInfo.js 510 bytes {0}
+  [207] ./~/react/lib/findNodeHandle.js 4.07 kB {0}
+  [208] ./~/react/lib/ReactPerf.js 14.7 kB {0}
+  [209] ./~/react/lib/ReactTestUtils.js 19.7 kB {0}
+
+ERROR in ./~/react-native/lib/InitializeJavaScriptAppEngine.js
+Module not found: Error: Cannot resolve module 'InitializeJavaScriptAppEngine' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/InitializeJavaScriptAppEngine.js 15:17-57
+
+ERROR in ./~/react-native/lib/RCTEventEmitter.js
+Module not found: Error: Cannot resolve module 'RCTEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/RCTEventEmitter.js 15:17-43
+
+ERROR in ./~/react-native/lib/View.js
+Module not found: Error: Cannot resolve module 'View' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/View.js 15:17-32
+
+ERROR in ./~/react-native/lib/UIManager.js
+Module not found: Error: Cannot resolve module 'UIManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/UIManager.js 15:17-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActivityIndicator' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 30:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActivityIndicatorIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 31:38-69
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ReactNativeART' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 32:21-46
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DatePickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 33:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DrawerLayoutAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 34:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Image' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 35:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImageEditor' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 36:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImageStore' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 37:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'KeyboardAvoidingView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 38:38-69
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ListView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 39:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'MapView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 40:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Modal' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 41:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Navigator' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 42:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NavigatorIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 43:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Picker' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 44:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 45:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ProgressBarAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 46:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ProgressViewIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 47:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ScrollView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 48:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SegmentedControlIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 49:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Slider' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 50:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SliderIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 51:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SnapshotViewIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 52:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Switch' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 53:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RecyclerViewBackedScrollView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 54:46-85
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RefreshControl' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 55:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StatusBar' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 56:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwipeableListView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 57:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwitchAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 58:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwitchIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 59:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TabBarIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 60:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Text' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 61:22-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TextInput' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 62:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ToastAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 63:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ToolbarAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 64:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Touchable' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 65:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableHighlight' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 66:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableNativeFeedback' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 67:41-75
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableOpacity' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 68:34-61
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableWithoutFeedback' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 69:42-77
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'View' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 70:22-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ViewPagerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 71:34-61
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'WebView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 72:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActionSheetIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 75:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AdSupportIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 76:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Alert' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 77:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AlertIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 78:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Animated' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 79:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppRegistry' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 80:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppState' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 81:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppStateIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 82:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AsyncStorage' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 83:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'BackAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 84:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'CameraRoll' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 85:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Clipboard' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 86:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DatePickerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 87:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Dimensions' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 88:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Easing' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 89:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'I18nManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 90:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImagePickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 91:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'IntentAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 92:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'InteractionManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 93:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Keyboard' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 94:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'LayoutAnimation' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 95:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Linking' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 96:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'LinkingIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 97:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NativeEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 98:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NavigationExperimental' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 99:40-73
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NetInfo' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 100:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PanResponder' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 101:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PermissionsAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 102:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PixelRatio' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 103:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PushNotificationIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 104:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Settings' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 105:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Share' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 106:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StatusBarIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 107:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StyleSheet' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 108:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Systrace' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 109:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TimePickerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 110:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'UIManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 111:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Vibration' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 112:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'VibrationIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 113:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RCTDeviceEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 116:36-68
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RCTNativeAppEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 117:39-74
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NativeModules' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 118:31-55 152:13-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Platform' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 119:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'processColor' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 120:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'requireNativeComponent' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 121:40-73
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ColorPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 124:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'EdgeInsetsPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 125:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PointPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 126:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'throwOnWrongReactAPI' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 183:31-62
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+Hash: 9037f5150151cf33c923
+Version: webpack 1.13.2
+Time: 400ms
+    Asset    Size  Chunks       Chunk Names
+bundle.js  908 kB       0       main
+chunk    {0} bundle.js (main) 852 kB
+    [0] ./app/src/client.jsx 921 bytes {0}
+    [1] ./~/react/react.js 56 bytes {0}
+    [2] ./~/react/lib/React.js 2.72 kB {0}
+    [3] ./~/process/browser.js 5.3 kB {0}
+    [4] ./~/object-assign/index.js 1.99 kB {0}
+    [5] ./~/react/lib/ReactChildren.js 6.22 kB {0}
+    [6] ./~/react/lib/PooledClass.js 3.59 kB {0}
+    [7] ./~/react/lib/reactProdInvariant.js 1.27 kB {0}
+    [8] ./~/fbjs/lib/invariant.js 1.49 kB {0}
+    [9] ./~/react/lib/ReactElement.js 11.7 kB {0}
+   [10] ./~/react/lib/ReactCurrentOwner.js 657 bytes {0}
+   [11] ./~/fbjs/lib/warning.js 2.1 kB {0}
+   [12] ./~/fbjs/lib/emptyFunction.js 1.08 kB {0}
+   [13] ./~/react/lib/canDefineProperty.js 632 bytes {0}
+   [14] ./~/react/lib/traverseAllChildren.js 6.74 kB {0}
+   [15] ./~/react/lib/getIteratorFn.js 1.15 kB {0}
+   [16] ./~/react/lib/KeyEscapeUtils.js 1.33 kB {0}
+   [17] ./~/react/lib/ReactComponent.js 4.64 kB {0}
+   [18] ./~/react/lib/ReactNoopUpdateQueue.js 3.4 kB {0}
+   [19] ./~/fbjs/lib/emptyObject.js 458 bytes {0}
+   [20] ./~/react/lib/ReactPureComponent.js 1.36 kB {0}
+   [21] ./~/react/lib/ReactClass.js 27.2 kB {0}
+   [22] ./~/react/lib/ReactPropTypeLocations.js 552 bytes {0}
+   [23] ./~/fbjs/lib/keyMirror.js 1.25 kB {0}
+   [24] ./~/react/lib/ReactPropTypeLocationNames.js 614 bytes {0}
+   [25] ./~/fbjs/lib/keyOf.js 1.1 kB {0}
+   [26] ./~/react/lib/ReactDOMFactories.js 5.56 kB {0}
+   [27] ./~/react/lib/ReactElementValidator.js 8.08 kB {0}
+   [28] ./~/react/lib/ReactComponentTreeHook.js 10.1 kB {0}
+   [29] ./~/react/lib/checkReactTypeSpec.js 4.23 kB {0}
+   [30] ./~/react/lib/ReactPropTypesSecret.js 478 bytes {0}
+   [31] ./~/react/lib/ReactPropTypes.js 15.6 kB {0}
+   [32] ./~/react/lib/ReactVersion.js 382 bytes {0}
+   [33] ./~/react/lib/onlyChild.js 1.37 kB {0}
+   [34] ./~/react-dom/index.js 63 bytes {0}
+   [35] ./~/react/lib/ReactDOM.js 5.08 kB {0}
+   [36] ./~/react/lib/ReactDOMComponentTree.js 6.2 kB {0}
+   [37] ./~/react/lib/DOMProperty.js 8.13 kB {0}
+   [38] ./~/react/lib/ReactDOMComponentFlags.js 471 bytes {0}
+   [39] ./~/react/lib/ReactDefaultInjection.js 3.4 kB {0}
+   [40] ./~/react/lib/BeforeInputEventPlugin.js 14 kB {0}
+   [41] ./~/react/lib/EventConstants.js 2.17 kB {0}
+   [42] ./~/react/lib/EventPropagators.js 5.32 kB {0}
+   [43] ./~/react/lib/EventPluginHub.js 8.32 kB {0}
+   [44] ./~/react/lib/EventPluginRegistry.js 9.48 kB {0}
+   [45] ./~/react/lib/EventPluginUtils.js 8.17 kB {0}
+   [46] ./~/react/lib/ReactErrorUtils.js 2.26 kB {0}
+   [47] ./~/react/lib/accumulateInto.js 1.73 kB {0}
+   [48] ./~/react/lib/forEachAccumulated.js 893 bytes {0}
+   [49] ./~/fbjs/lib/ExecutionEnvironment.js 1.06 kB {0}
+   [50] ./~/react/lib/FallbackCompositionState.js 2.47 kB {0}
+   [51] ./~/react/lib/getTextContentAccessor.js 997 bytes {0}
+   [52] ./~/react/lib/SyntheticCompositionEvent.js 1.14 kB {0}
+   [53] ./~/react/lib/SyntheticEvent.js 9.21 kB {0}
+   [54] ./~/react/lib/SyntheticInputEvent.js 1.13 kB {0}
+   [55] ./~/react/lib/ChangeEventPlugin.js 11.5 kB {0}
+   [56] ./~/react/lib/ReactUpdates.js 9.6 kB {0}
+   [57] ./~/react/lib/CallbackQueue.js 2.73 kB {0}
+   [58] ./~/react/lib/ReactFeatureFlags.js 665 bytes {0}
+   [59] ./~/react/lib/ReactReconciler.js 6.25 kB {0}
+   [60] ./~/react/lib/ReactRef.js 2.47 kB {0}
+   [61] ./~/react/lib/ReactOwner.js 3.6 kB {0}
+   [62] ./~/react/lib/ReactInstrumentation.js 559 bytes {0}
+   [63] ./~/react/lib/ReactDebugTool.js 9.8 kB {0}
+   [64] ./~/react/lib/ReactInvalidSetStateWarningHook.js 1.03 kB {0}
+   [65] ./~/react/lib/ReactHostOperationHistoryHook.js 860 bytes {0}
+   [66] ./~/react/lib/ReactChildrenMutationWarningHook.js 1.66 kB {0}
+   [67] ./~/fbjs/lib/performanceNow.js 845 bytes {0}
+   [68] ./~/fbjs/lib/performance.js 588 bytes {0}
+   [69] ./~/react/lib/Transaction.js 9.61 kB {0}
+   [70] ./~/react/lib/getEventTarget.js 1.04 kB {0}
+   [71] ./~/react/lib/isEventSupported.js 1.97 kB {0}
+   [72] ./~/react/lib/isTextInputElement.js 1.08 kB {0}
+   [73] ./~/react/lib/DefaultEventPluginOrder.js 1.26 kB {0}
+   [74] ./~/react/lib/EnterLeaveEventPlugin.js 3.46 kB {0}
+   [75] ./~/react/lib/SyntheticMouseEvent.js 2.18 kB {0}
+   [76] ./~/react/lib/SyntheticUIEvent.js 1.61 kB {0}
+   [77] ./~/react/lib/ViewportMetrics.js 641 bytes {0}
+   [78] ./~/react/lib/getEventModifierState.js 1.27 kB {0}
+   [79] ./~/react/lib/HTMLDOMPropertyConfig.js 5.49 kB {0}
+   [80] ./~/react/lib/ReactComponentBrowserEnvironment.js 958 bytes {0}
+   [81] ./~/react/lib/DOMChildrenOperations.js 7.3 kB {0}
+   [82] ./~/react/lib/DOMLazyTree.js 3.75 kB {0}
+   [83] ./~/react/lib/DOMNamespaces.js 538 bytes {0}
+   [84] ./~/react/lib/setInnerHTML.js 3.89 kB {0}
+   [85] ./~/react/lib/createMicrosoftUnsafeLocalFunction.js 864 bytes {0}
+   [86] ./~/react/lib/setTextContent.js 1.4 kB {0}
+   [87] ./~/react/lib/escapeTextContentForBrowser.js 3.48 kB {0}
+   [88] ./~/react/lib/Danger.js 2.27 kB {0}
+   [89] ./~/fbjs/lib/createNodesFromMarkup.js 2.66 kB {0}
+   [90] ./~/fbjs/lib/createArrayFromMixed.js 4.11 kB {0}
+   [91] ./~/fbjs/lib/getMarkupWrap.js 3.04 kB {0}
+   [92] ./~/react/lib/ReactMultiChildUpdateTypes.js 864 bytes {0}
+   [93] ./~/react/lib/ReactDOMIDOperations.js 996 bytes {0}
+   [94] ./~/react/lib/ReactDOMComponent.js 38.9 kB {0}
+   [95] ./~/react/lib/AutoFocusUtils.js 633 bytes {0}
+   [96] ./~/fbjs/lib/focusNode.js 704 bytes {0}
+   [97] ./~/react/lib/CSSPropertyOperations.js 6.85 kB {0}
+   [98] ./~/react/lib/CSSProperty.js 3.69 kB {0}
+   [99] ./~/fbjs/lib/camelizeStyleName.js 1 kB {0}
+  [100] ./~/fbjs/lib/camelize.js 708 bytes {0}
+  [101] ./~/react/lib/dangerousStyleValue.js 3.06 kB {0}
+  [102] ./~/fbjs/lib/hyphenateStyleName.js 974 bytes {0}
+  [103] ./~/fbjs/lib/hyphenate.js 800 bytes {0}
+  [104] ./~/fbjs/lib/memoizeStringOnly.js 698 bytes {0}
+  [105] ./~/react/lib/DOMPropertyOperations.js 7.41 kB {0}
+  [106] ./~/react/lib/quoteAttributeValueForBrowser.js 749 bytes {0}
+  [107] ./~/react/lib/ReactBrowserEventEmitter.js 12.9 kB {0}
+  [108] ./~/react/lib/ReactEventEmitterMixin.js 1 kB {0}
+  [109] ./~/react/lib/getVendorPrefixedEventName.js 2.92 kB {0}
+  [110] ./~/react/lib/ReactDOMButton.js 634 bytes {0}
+  [111] ./~/react/lib/DisabledInputUtils.js 1.16 kB {0}
+  [112] ./~/react/lib/ReactDOMInput.js 12.1 kB {0}
+  [113] ./~/react/lib/LinkedValueUtils.js 5.28 kB {0}
+  [114] ./~/react/lib/ReactDOMOption.js 3.73 kB {0}
+  [115] ./~/react/lib/ReactDOMSelect.js 6.94 kB {0}
+  [116] ./~/react/lib/ReactDOMTextarea.js 6.36 kB {0}
+  [117] ./~/react/lib/ReactMultiChild.js 14.8 kB {0}
+  [118] ./~/react/lib/ReactComponentEnvironment.js 1.34 kB {0}
+  [119] ./~/react/lib/ReactInstanceMap.js 1.26 kB {0}
+  [120] ./~/react/lib/ReactChildReconciler.js 6.13 kB {0}
+  [121] ./~/react/lib/instantiateReactComponent.js 4.81 kB {0}
+  [122] ./~/react/lib/ReactCompositeComponent.js 35.4 kB {0}
+  [123] ./~/react/lib/ReactNodeTypes.js 1.06 kB {0}
+  [124] ./~/fbjs/lib/shallowEqual.js 1.74 kB {0}
+  [125] ./~/react/lib/shouldUpdateReactComponent.js 1.45 kB {0}
+  [126] ./~/react/lib/ReactEmptyComponent.js 743 bytes {0}
+  [127] ./~/react/lib/ReactHostComponent.js 2.42 kB {0}
+  [128] ./~/react/lib/flattenChildren.js 2.79 kB {0}
+  [129] ./~/react/lib/ReactServerRenderingTransaction.js 2.35 kB {0}
+  [130] ./~/react/lib/ReactServerUpdateQueue.js 4.95 kB {0}
+  [131] ./~/react/lib/ReactUpdateQueue.js 9.03 kB {0}
+  [132] ./~/react/lib/validateDOMNesting.js 13.7 kB {0}
+  [133] ./~/react/lib/ReactDOMEmptyComponent.js 1.94 kB {0}
+  [134] ./~/react/lib/ReactDOMTreeTraversal.js 3.74 kB {0}
+  [135] ./~/react/lib/ReactDOMTextComponent.js 5.86 kB {0}
+  [136] ./~/react/lib/ReactDefaultBatchingStrategy.js 1.92 kB {0}
+  [137] ./~/react/lib/ReactEventListener.js 5.38 kB {0}
+  [138] ./~/fbjs/lib/EventListener.js 2.67 kB {0}
+  [139] ./~/fbjs/lib/getUnboundedScrollPosition.js 1.05 kB {0}
+  [140] ./~/react/lib/ReactInjection.js 1.31 kB {0}
+  [141] ./~/react/lib/ReactReconcileTransaction.js 5.31 kB {0}
+  [142] ./~/react/lib/ReactInputSelection.js 4.31 kB {0}
+  [143] ./~/react/lib/ReactDOMSelection.js 6.81 kB {0}
+  [144] ./~/react/lib/getNodeForCharacterOffset.js 1.66 kB {0}
+  [145] ./~/fbjs/lib/containsNode.js 1.05 kB {0}
+  [146] ./~/fbjs/lib/isTextNode.js 605 bytes {0}
+  [147] ./~/fbjs/lib/isNode.js 693 bytes {0}
+  [148] ./~/fbjs/lib/getActiveElement.js 895 bytes {0}
+  [149] ./~/react/lib/SVGDOMPropertyConfig.js 7.36 kB {0}
+  [150] ./~/react/lib/SelectEventPlugin.js 6.51 kB {0}
+  [151] ./~/react/lib/SimpleEventPlugin.js 18.9 kB {0}
+  [152] ./~/react/lib/SyntheticAnimationEvent.js 1.25 kB {0}
+  [153] ./~/react/lib/SyntheticClipboardEvent.js 1.21 kB {0}
+  [154] ./~/react/lib/SyntheticFocusEvent.js 1.1 kB {0}
+  [155] ./~/react/lib/SyntheticKeyboardEvent.js 2.75 kB {0}
+  [156] ./~/react/lib/getEventCharCode.js 1.54 kB {0}
+  [157] ./~/react/lib/getEventKey.js 2.9 kB {0}
+  [158] ./~/react/lib/SyntheticDragEvent.js 1.11 kB {0}
+  [159] ./~/react/lib/SyntheticTouchEvent.js 1.32 kB {0}
+  [160] ./~/react/lib/SyntheticTransitionEvent.js 1.27 kB {0}
+  [161] ./~/react/lib/SyntheticWheelEvent.js 1.98 kB {0}
+  [162] ./~/react/lib/ReactMount.js 25.5 kB {0}
+  [163] ./~/react/lib/ReactDOMContainerInfo.js 1.01 kB {0}
+  [164] ./~/react/lib/ReactDOMFeatureFlags.js 460 bytes {0}
+  [165] ./~/react/lib/ReactMarkupChecksum.js 1.51 kB {0}
+  [166] ./~/react/lib/adler32.js 1.22 kB {0}
+  [167] ./~/react/lib/findDOMNode.js 2.49 kB {0}
+  [168] ./~/react/lib/getHostComponentFromComposite.js 789 bytes {0}
+  [169] ./~/react/lib/renderSubtreeIntoContainer.js 466 bytes {0}
+  [170] ./~/react/lib/ReactDOMUnknownPropertyHook.js 4.36 kB {0}
+  [171] ./~/react/lib/ReactDOMNullInputValuePropHook.js 1.41 kB {0}
+  [172] ./app/components/Bar.jsx 2.59 kB {0}
+  [173] ./app/components/Main.jsx 2.74 kB {0}
+  [174] ./app/components/Styles.jsx 749 bytes {0} [built]
+  [175] ./~/react-native/Libraries/react-native/react-native.js 9.16 kB {0} [276 errors]
+  [176] ./~/react/lib/LinkedStateMixin.js 1.2 kB {0}
+  [177] ./~/react/lib/ReactLink.js 2.13 kB {0}
+  [178] ./~/react/lib/ReactStateSetters.js 3.68 kB {0}
+  [179] ./~/react/lib/ReactComponentWithPureRenderMixin.js 1.58 kB {0}
+  [180] ./~/react/lib/shallowCompare.js 768 bytes {0}
+  [181] ./~/react/lib/ReactFragment.js 2.67 kB {0}
+  [182] ./~/react/lib/update.js 5.33 kB {0}
+  [183] ./~/react/lib/ReactNative.js 2.36 kB {0}
+  [184] ./~/react/lib/ReactNativeComponentTree.js 1.84 kB {0}
+  [185] ./~/react/lib/ReactNativeDefaultInjection.js 4.28 kB {0}
+  [186] ./~/react-native/lib/InitializeJavaScriptAppEngine.js 497 bytes {0} [3 errors]
+  [187] ./~/react-native/lib/RCTEventEmitter.js 483 bytes {0} [3 errors]
+  [188] ./~/react/lib/ReactNativeBridgeEventPlugin.js 2.32 kB {0}
+  [189] ./~/react-native/lib/UIManager.js 477 bytes {0} [3 errors]
+  [190] ./~/react/lib/ReactNativeComponentEnvironment.js 978 bytes {0}
+  [191] ./~/react/lib/ReactNativeDOMIDOperations.js 2.98 kB {0}
+  [192] ./~/react/lib/ReactNativeReconcileTransaction.js 3.62 kB {0}
+  [193] ./~/react/lib/ReactNativeEventEmitter.js 7.32 kB {0}
+  [194] ./~/react/lib/ReactNativeTagHandles.js 2.04 kB {0}
+  [195] ./~/react/lib/ReactNativeEventPluginOrder.js 516 bytes {0}
+  [196] ./~/react/lib/ReactNativeGlobalResponderHandler.js 741 bytes {0}
+  [197] ./~/react/lib/ReactNativeTextComponent.js 2.38 kB {0}
+  [198] ./~/react/lib/ReactNativeTreeTraversal.js 2.92 kB {0}
+  [199] ./~/react/lib/ReactSimpleEmptyComponent.js 1.28 kB {0}
+  [200] ./~/react/lib/ResponderEventPlugin.js 24.5 kB {0}
+  [201] ./~/react/lib/ResponderSyntheticEvent.js 1.34 kB {0}
+  [202] ./~/react/lib/ResponderTouchHistoryStore.js 6.69 kB {0}
+  [203] ./~/react/lib/accumulate.js 1.26 kB {0}
+  [204] ./~/react-native/lib/View.js 472 bytes {0} [3 errors]
+  [205] ./~/react/lib/ReactNativeMount.js 7.34 kB {0}
+  [206] ./~/react/lib/ReactNativeContainerInfo.js 510 bytes {0}
+  [207] ./~/react/lib/findNodeHandle.js 4.07 kB {0}
+  [208] ./~/react/lib/ReactPerf.js 14.7 kB {0}
+  [209] ./~/react/lib/ReactTestUtils.js 19.7 kB {0}
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActivityIndicator' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 30:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActivityIndicatorIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 31:38-69
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ReactNativeART' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 32:21-46
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DatePickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 33:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DrawerLayoutAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 34:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Image' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 35:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImageEditor' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 36:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImageStore' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 37:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'KeyboardAvoidingView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 38:38-69
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ListView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 39:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'MapView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 40:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Modal' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 41:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Navigator' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 42:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NavigatorIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 43:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Picker' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 44:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 45:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ProgressBarAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 46:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ProgressViewIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 47:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ScrollView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 48:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SegmentedControlIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 49:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Slider' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 50:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SliderIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 51:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SnapshotViewIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 52:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Switch' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 53:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RecyclerViewBackedScrollView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 54:46-85
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RefreshControl' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 55:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StatusBar' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 56:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwipeableListView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 57:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwitchAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 58:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwitchIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 59:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TabBarIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 60:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Text' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 61:22-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TextInput' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 62:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ToastAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 63:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ToolbarAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 64:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Touchable' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 65:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableHighlight' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 66:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableNativeFeedback' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 67:41-75
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableOpacity' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 68:34-61
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableWithoutFeedback' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 69:42-77
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'View' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 70:22-37
+
+ERROR in ./~/react-native/lib/View.js
+Module not found: Error: Cannot resolve module 'View' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/View.js 15:17-32
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ViewPagerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 71:34-61
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'WebView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 72:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActionSheetIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 75:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AdSupportIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 76:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Alert' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 77:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AlertIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 78:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Animated' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 79:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppRegistry' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 80:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppState' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 81:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppStateIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 82:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AsyncStorage' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 83:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'BackAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 84:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'CameraRoll' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 85:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Clipboard' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 86:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DatePickerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 87:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Dimensions' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 88:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Easing' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 89:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'I18nManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 90:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImagePickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 91:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'IntentAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 92:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'InteractionManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 93:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Keyboard' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 94:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'LayoutAnimation' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 95:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Linking' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 96:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'LinkingIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 97:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NativeEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 98:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NavigationExperimental' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 99:40-73
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NetInfo' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 100:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PanResponder' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 101:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PermissionsAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 102:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PixelRatio' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 103:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PushNotificationIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 104:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Settings' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 105:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Share' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 106:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StatusBarIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 107:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StyleSheet' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 108:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Systrace' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 109:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TimePickerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 110:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'UIManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 111:27-47
+
+ERROR in ./~/react-native/lib/UIManager.js
+Module not found: Error: Cannot resolve module 'UIManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/UIManager.js 15:17-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Vibration' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 112:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'VibrationIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 113:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RCTDeviceEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 116:36-68
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RCTNativeAppEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 117:39-74
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NativeModules' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 118:31-55 152:13-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Platform' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 119:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'processColor' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 120:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'requireNativeComponent' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 121:40-73
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ColorPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 124:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'EdgeInsetsPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 125:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PointPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 126:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'throwOnWrongReactAPI' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 183:31-62
+
+ERROR in ./~/react-native/lib/InitializeJavaScriptAppEngine.js
+Module not found: Error: Cannot resolve module 'InitializeJavaScriptAppEngine' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/InitializeJavaScriptAppEngine.js 15:17-57
+
+ERROR in ./~/react-native/lib/RCTEventEmitter.js
+Module not found: Error: Cannot resolve module 'RCTEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/RCTEventEmitter.js 15:17-43
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+Hash: 9037f5150151cf33c923
+Version: webpack 1.13.2
+Time: 214ms
+    Asset    Size  Chunks       Chunk Names
+bundle.js  908 kB       0       main
+chunk    {0} bundle.js (main) 852 kB
+    [0] ./app/src/client.jsx 921 bytes {0}
+    [1] ./~/react/react.js 56 bytes {0}
+    [2] ./~/react/lib/React.js 2.72 kB {0}
+    [3] ./~/process/browser.js 5.3 kB {0}
+    [4] ./~/object-assign/index.js 1.99 kB {0}
+    [5] ./~/react/lib/ReactChildren.js 6.22 kB {0}
+    [6] ./~/react/lib/PooledClass.js 3.59 kB {0}
+    [7] ./~/react/lib/reactProdInvariant.js 1.27 kB {0}
+    [8] ./~/fbjs/lib/invariant.js 1.49 kB {0}
+    [9] ./~/react/lib/ReactElement.js 11.7 kB {0}
+   [10] ./~/react/lib/ReactCurrentOwner.js 657 bytes {0}
+   [11] ./~/fbjs/lib/warning.js 2.1 kB {0}
+   [12] ./~/fbjs/lib/emptyFunction.js 1.08 kB {0}
+   [13] ./~/react/lib/canDefineProperty.js 632 bytes {0}
+   [14] ./~/react/lib/traverseAllChildren.js 6.74 kB {0}
+   [15] ./~/react/lib/getIteratorFn.js 1.15 kB {0}
+   [16] ./~/react/lib/KeyEscapeUtils.js 1.33 kB {0}
+   [17] ./~/react/lib/ReactComponent.js 4.64 kB {0}
+   [18] ./~/react/lib/ReactNoopUpdateQueue.js 3.4 kB {0}
+   [19] ./~/fbjs/lib/emptyObject.js 458 bytes {0}
+   [20] ./~/react/lib/ReactPureComponent.js 1.36 kB {0}
+   [21] ./~/react/lib/ReactClass.js 27.2 kB {0}
+   [22] ./~/react/lib/ReactPropTypeLocations.js 552 bytes {0}
+   [23] ./~/fbjs/lib/keyMirror.js 1.25 kB {0}
+   [24] ./~/react/lib/ReactPropTypeLocationNames.js 614 bytes {0}
+   [25] ./~/fbjs/lib/keyOf.js 1.1 kB {0}
+   [26] ./~/react/lib/ReactDOMFactories.js 5.56 kB {0}
+   [27] ./~/react/lib/ReactElementValidator.js 8.08 kB {0}
+   [28] ./~/react/lib/ReactComponentTreeHook.js 10.1 kB {0}
+   [29] ./~/react/lib/checkReactTypeSpec.js 4.23 kB {0}
+   [30] ./~/react/lib/ReactPropTypesSecret.js 478 bytes {0}
+   [31] ./~/react/lib/ReactPropTypes.js 15.6 kB {0}
+   [32] ./~/react/lib/ReactVersion.js 382 bytes {0}
+   [33] ./~/react/lib/onlyChild.js 1.37 kB {0}
+   [34] ./~/react-dom/index.js 63 bytes {0}
+   [35] ./~/react/lib/ReactDOM.js 5.08 kB {0}
+   [36] ./~/react/lib/ReactDOMComponentTree.js 6.2 kB {0}
+   [37] ./~/react/lib/DOMProperty.js 8.13 kB {0}
+   [38] ./~/react/lib/ReactDOMComponentFlags.js 471 bytes {0}
+   [39] ./~/react/lib/ReactDefaultInjection.js 3.4 kB {0}
+   [40] ./~/react/lib/BeforeInputEventPlugin.js 14 kB {0}
+   [41] ./~/react/lib/EventConstants.js 2.17 kB {0}
+   [42] ./~/react/lib/EventPropagators.js 5.32 kB {0}
+   [43] ./~/react/lib/EventPluginHub.js 8.32 kB {0}
+   [44] ./~/react/lib/EventPluginRegistry.js 9.48 kB {0}
+   [45] ./~/react/lib/EventPluginUtils.js 8.17 kB {0}
+   [46] ./~/react/lib/ReactErrorUtils.js 2.26 kB {0}
+   [47] ./~/react/lib/accumulateInto.js 1.73 kB {0}
+   [48] ./~/react/lib/forEachAccumulated.js 893 bytes {0}
+   [49] ./~/fbjs/lib/ExecutionEnvironment.js 1.06 kB {0}
+   [50] ./~/react/lib/FallbackCompositionState.js 2.47 kB {0}
+   [51] ./~/react/lib/getTextContentAccessor.js 997 bytes {0}
+   [52] ./~/react/lib/SyntheticCompositionEvent.js 1.14 kB {0}
+   [53] ./~/react/lib/SyntheticEvent.js 9.21 kB {0}
+   [54] ./~/react/lib/SyntheticInputEvent.js 1.13 kB {0}
+   [55] ./~/react/lib/ChangeEventPlugin.js 11.5 kB {0}
+   [56] ./~/react/lib/ReactUpdates.js 9.6 kB {0}
+   [57] ./~/react/lib/CallbackQueue.js 2.73 kB {0}
+   [58] ./~/react/lib/ReactFeatureFlags.js 665 bytes {0}
+   [59] ./~/react/lib/ReactReconciler.js 6.25 kB {0}
+   [60] ./~/react/lib/ReactRef.js 2.47 kB {0}
+   [61] ./~/react/lib/ReactOwner.js 3.6 kB {0}
+   [62] ./~/react/lib/ReactInstrumentation.js 559 bytes {0}
+   [63] ./~/react/lib/ReactDebugTool.js 9.8 kB {0}
+   [64] ./~/react/lib/ReactInvalidSetStateWarningHook.js 1.03 kB {0}
+   [65] ./~/react/lib/ReactHostOperationHistoryHook.js 860 bytes {0}
+   [66] ./~/react/lib/ReactChildrenMutationWarningHook.js 1.66 kB {0}
+   [67] ./~/fbjs/lib/performanceNow.js 845 bytes {0}
+   [68] ./~/fbjs/lib/performance.js 588 bytes {0}
+   [69] ./~/react/lib/Transaction.js 9.61 kB {0}
+   [70] ./~/react/lib/getEventTarget.js 1.04 kB {0}
+   [71] ./~/react/lib/isEventSupported.js 1.97 kB {0}
+   [72] ./~/react/lib/isTextInputElement.js 1.08 kB {0}
+   [73] ./~/react/lib/DefaultEventPluginOrder.js 1.26 kB {0}
+   [74] ./~/react/lib/EnterLeaveEventPlugin.js 3.46 kB {0}
+   [75] ./~/react/lib/SyntheticMouseEvent.js 2.18 kB {0}
+   [76] ./~/react/lib/SyntheticUIEvent.js 1.61 kB {0}
+   [77] ./~/react/lib/ViewportMetrics.js 641 bytes {0}
+   [78] ./~/react/lib/getEventModifierState.js 1.27 kB {0}
+   [79] ./~/react/lib/HTMLDOMPropertyConfig.js 5.49 kB {0}
+   [80] ./~/react/lib/ReactComponentBrowserEnvironment.js 958 bytes {0}
+   [81] ./~/react/lib/DOMChildrenOperations.js 7.3 kB {0}
+   [82] ./~/react/lib/DOMLazyTree.js 3.75 kB {0}
+   [83] ./~/react/lib/DOMNamespaces.js 538 bytes {0}
+   [84] ./~/react/lib/setInnerHTML.js 3.89 kB {0}
+   [85] ./~/react/lib/createMicrosoftUnsafeLocalFunction.js 864 bytes {0}
+   [86] ./~/react/lib/setTextContent.js 1.4 kB {0}
+   [87] ./~/react/lib/escapeTextContentForBrowser.js 3.48 kB {0}
+   [88] ./~/react/lib/Danger.js 2.27 kB {0}
+   [89] ./~/fbjs/lib/createNodesFromMarkup.js 2.66 kB {0}
+   [90] ./~/fbjs/lib/createArrayFromMixed.js 4.11 kB {0}
+   [91] ./~/fbjs/lib/getMarkupWrap.js 3.04 kB {0}
+   [92] ./~/react/lib/ReactMultiChildUpdateTypes.js 864 bytes {0}
+   [93] ./~/react/lib/ReactDOMIDOperations.js 996 bytes {0}
+   [94] ./~/react/lib/ReactDOMComponent.js 38.9 kB {0}
+   [95] ./~/react/lib/AutoFocusUtils.js 633 bytes {0}
+   [96] ./~/fbjs/lib/focusNode.js 704 bytes {0}
+   [97] ./~/react/lib/CSSPropertyOperations.js 6.85 kB {0}
+   [98] ./~/react/lib/CSSProperty.js 3.69 kB {0}
+   [99] ./~/fbjs/lib/camelizeStyleName.js 1 kB {0}
+  [100] ./~/fbjs/lib/camelize.js 708 bytes {0}
+  [101] ./~/react/lib/dangerousStyleValue.js 3.06 kB {0}
+  [102] ./~/fbjs/lib/hyphenateStyleName.js 974 bytes {0}
+  [103] ./~/fbjs/lib/hyphenate.js 800 bytes {0}
+  [104] ./~/fbjs/lib/memoizeStringOnly.js 698 bytes {0}
+  [105] ./~/react/lib/DOMPropertyOperations.js 7.41 kB {0}
+  [106] ./~/react/lib/quoteAttributeValueForBrowser.js 749 bytes {0}
+  [107] ./~/react/lib/ReactBrowserEventEmitter.js 12.9 kB {0}
+  [108] ./~/react/lib/ReactEventEmitterMixin.js 1 kB {0}
+  [109] ./~/react/lib/getVendorPrefixedEventName.js 2.92 kB {0}
+  [110] ./~/react/lib/ReactDOMButton.js 634 bytes {0}
+  [111] ./~/react/lib/DisabledInputUtils.js 1.16 kB {0}
+  [112] ./~/react/lib/ReactDOMInput.js 12.1 kB {0}
+  [113] ./~/react/lib/LinkedValueUtils.js 5.28 kB {0}
+  [114] ./~/react/lib/ReactDOMOption.js 3.73 kB {0}
+  [115] ./~/react/lib/ReactDOMSelect.js 6.94 kB {0}
+  [116] ./~/react/lib/ReactDOMTextarea.js 6.36 kB {0}
+  [117] ./~/react/lib/ReactMultiChild.js 14.8 kB {0}
+  [118] ./~/react/lib/ReactComponentEnvironment.js 1.34 kB {0}
+  [119] ./~/react/lib/ReactInstanceMap.js 1.26 kB {0}
+  [120] ./~/react/lib/ReactChildReconciler.js 6.13 kB {0}
+  [121] ./~/react/lib/instantiateReactComponent.js 4.81 kB {0}
+  [122] ./~/react/lib/ReactCompositeComponent.js 35.4 kB {0}
+  [123] ./~/react/lib/ReactNodeTypes.js 1.06 kB {0}
+  [124] ./~/fbjs/lib/shallowEqual.js 1.74 kB {0}
+  [125] ./~/react/lib/shouldUpdateReactComponent.js 1.45 kB {0}
+  [126] ./~/react/lib/ReactEmptyComponent.js 743 bytes {0}
+  [127] ./~/react/lib/ReactHostComponent.js 2.42 kB {0}
+  [128] ./~/react/lib/flattenChildren.js 2.79 kB {0}
+  [129] ./~/react/lib/ReactServerRenderingTransaction.js 2.35 kB {0}
+  [130] ./~/react/lib/ReactServerUpdateQueue.js 4.95 kB {0}
+  [131] ./~/react/lib/ReactUpdateQueue.js 9.03 kB {0}
+  [132] ./~/react/lib/validateDOMNesting.js 13.7 kB {0}
+  [133] ./~/react/lib/ReactDOMEmptyComponent.js 1.94 kB {0}
+  [134] ./~/react/lib/ReactDOMTreeTraversal.js 3.74 kB {0}
+  [135] ./~/react/lib/ReactDOMTextComponent.js 5.86 kB {0}
+  [136] ./~/react/lib/ReactDefaultBatchingStrategy.js 1.92 kB {0}
+  [137] ./~/react/lib/ReactEventListener.js 5.38 kB {0}
+  [138] ./~/fbjs/lib/EventListener.js 2.67 kB {0}
+  [139] ./~/fbjs/lib/getUnboundedScrollPosition.js 1.05 kB {0}
+  [140] ./~/react/lib/ReactInjection.js 1.31 kB {0}
+  [141] ./~/react/lib/ReactReconcileTransaction.js 5.31 kB {0}
+  [142] ./~/react/lib/ReactInputSelection.js 4.31 kB {0}
+  [143] ./~/react/lib/ReactDOMSelection.js 6.81 kB {0}
+  [144] ./~/react/lib/getNodeForCharacterOffset.js 1.66 kB {0}
+  [145] ./~/fbjs/lib/containsNode.js 1.05 kB {0}
+  [146] ./~/fbjs/lib/isTextNode.js 605 bytes {0}
+  [147] ./~/fbjs/lib/isNode.js 693 bytes {0}
+  [148] ./~/fbjs/lib/getActiveElement.js 895 bytes {0}
+  [149] ./~/react/lib/SVGDOMPropertyConfig.js 7.36 kB {0}
+  [150] ./~/react/lib/SelectEventPlugin.js 6.51 kB {0}
+  [151] ./~/react/lib/SimpleEventPlugin.js 18.9 kB {0}
+  [152] ./~/react/lib/SyntheticAnimationEvent.js 1.25 kB {0}
+  [153] ./~/react/lib/SyntheticClipboardEvent.js 1.21 kB {0}
+  [154] ./~/react/lib/SyntheticFocusEvent.js 1.1 kB {0}
+  [155] ./~/react/lib/SyntheticKeyboardEvent.js 2.75 kB {0}
+  [156] ./~/react/lib/getEventCharCode.js 1.54 kB {0}
+  [157] ./~/react/lib/getEventKey.js 2.9 kB {0}
+  [158] ./~/react/lib/SyntheticDragEvent.js 1.11 kB {0}
+  [159] ./~/react/lib/SyntheticTouchEvent.js 1.32 kB {0}
+  [160] ./~/react/lib/SyntheticTransitionEvent.js 1.27 kB {0}
+  [161] ./~/react/lib/SyntheticWheelEvent.js 1.98 kB {0}
+  [162] ./~/react/lib/ReactMount.js 25.5 kB {0}
+  [163] ./~/react/lib/ReactDOMContainerInfo.js 1.01 kB {0}
+  [164] ./~/react/lib/ReactDOMFeatureFlags.js 460 bytes {0}
+  [165] ./~/react/lib/ReactMarkupChecksum.js 1.51 kB {0}
+  [166] ./~/react/lib/adler32.js 1.22 kB {0}
+  [167] ./~/react/lib/findDOMNode.js 2.49 kB {0}
+  [168] ./~/react/lib/getHostComponentFromComposite.js 789 bytes {0}
+  [169] ./~/react/lib/renderSubtreeIntoContainer.js 466 bytes {0}
+  [170] ./~/react/lib/ReactDOMUnknownPropertyHook.js 4.36 kB {0}
+  [171] ./~/react/lib/ReactDOMNullInputValuePropHook.js 1.41 kB {0}
+  [172] ./app/components/Bar.jsx 2.59 kB {0}
+  [173] ./app/components/Main.jsx 2.74 kB {0}
+  [174] ./app/components/Styles.jsx 749 bytes {0} [built]
+  [175] ./~/react-native/Libraries/react-native/react-native.js 9.16 kB {0} [368 errors]
+  [176] ./~/react/lib/LinkedStateMixin.js 1.2 kB {0}
+  [177] ./~/react/lib/ReactLink.js 2.13 kB {0}
+  [178] ./~/react/lib/ReactStateSetters.js 3.68 kB {0}
+  [179] ./~/react/lib/ReactComponentWithPureRenderMixin.js 1.58 kB {0}
+  [180] ./~/react/lib/shallowCompare.js 768 bytes {0}
+  [181] ./~/react/lib/ReactFragment.js 2.67 kB {0}
+  [182] ./~/react/lib/update.js 5.33 kB {0}
+  [183] ./~/react/lib/ReactNative.js 2.36 kB {0}
+  [184] ./~/react/lib/ReactNativeComponentTree.js 1.84 kB {0}
+  [185] ./~/react/lib/ReactNativeDefaultInjection.js 4.28 kB {0}
+  [186] ./~/react-native/lib/InitializeJavaScriptAppEngine.js 497 bytes {0} [4 errors]
+  [187] ./~/react-native/lib/RCTEventEmitter.js 483 bytes {0} [4 errors]
+  [188] ./~/react/lib/ReactNativeBridgeEventPlugin.js 2.32 kB {0}
+  [189] ./~/react-native/lib/UIManager.js 477 bytes {0} [4 errors]
+  [190] ./~/react/lib/ReactNativeComponentEnvironment.js 978 bytes {0}
+  [191] ./~/react/lib/ReactNativeDOMIDOperations.js 2.98 kB {0}
+  [192] ./~/react/lib/ReactNativeReconcileTransaction.js 3.62 kB {0}
+  [193] ./~/react/lib/ReactNativeEventEmitter.js 7.32 kB {0}
+  [194] ./~/react/lib/ReactNativeTagHandles.js 2.04 kB {0}
+  [195] ./~/react/lib/ReactNativeEventPluginOrder.js 516 bytes {0}
+  [196] ./~/react/lib/ReactNativeGlobalResponderHandler.js 741 bytes {0}
+  [197] ./~/react/lib/ReactNativeTextComponent.js 2.38 kB {0}
+  [198] ./~/react/lib/ReactNativeTreeTraversal.js 2.92 kB {0}
+  [199] ./~/react/lib/ReactSimpleEmptyComponent.js 1.28 kB {0}
+  [200] ./~/react/lib/ResponderEventPlugin.js 24.5 kB {0}
+  [201] ./~/react/lib/ResponderSyntheticEvent.js 1.34 kB {0}
+  [202] ./~/react/lib/ResponderTouchHistoryStore.js 6.69 kB {0}
+  [203] ./~/react/lib/accumulate.js 1.26 kB {0}
+  [204] ./~/react-native/lib/View.js 472 bytes {0} [4 errors]
+  [205] ./~/react/lib/ReactNativeMount.js 7.34 kB {0}
+  [206] ./~/react/lib/ReactNativeContainerInfo.js 510 bytes {0}
+  [207] ./~/react/lib/findNodeHandle.js 4.07 kB {0}
+  [208] ./~/react/lib/ReactPerf.js 14.7 kB {0}
+  [209] ./~/react/lib/ReactTestUtils.js 19.7 kB {0}
+
+ERROR in ./~/react-native/lib/InitializeJavaScriptAppEngine.js
+Module not found: Error: Cannot resolve module 'InitializeJavaScriptAppEngine' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/InitializeJavaScriptAppEngine.js 15:17-57
+
+ERROR in ./~/react-native/lib/RCTEventEmitter.js
+Module not found: Error: Cannot resolve module 'RCTEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/RCTEventEmitter.js 15:17-43
+
+ERROR in ./~/react-native/lib/View.js
+Module not found: Error: Cannot resolve module 'View' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/View.js 15:17-32
+
+ERROR in ./~/react-native/lib/UIManager.js
+Module not found: Error: Cannot resolve module 'UIManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/lib
+ @ ./~/react-native/lib/UIManager.js 15:17-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActivityIndicator' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 30:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActivityIndicatorIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 31:38-69
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ReactNativeART' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 32:21-46
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DatePickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 33:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DrawerLayoutAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 34:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Image' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 35:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImageEditor' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 36:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImageStore' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 37:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'KeyboardAvoidingView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 38:38-69
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ListView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 39:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'MapView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 40:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Modal' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 41:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Navigator' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 42:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NavigatorIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 43:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Picker' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 44:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 45:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ProgressBarAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 46:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ProgressViewIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 47:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ScrollView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 48:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SegmentedControlIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 49:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Slider' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 50:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SliderIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 51:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SnapshotViewIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 52:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Switch' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 53:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RecyclerViewBackedScrollView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 54:46-85
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RefreshControl' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 55:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StatusBar' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 56:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwipeableListView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 57:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwitchAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 58:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'SwitchIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 59:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TabBarIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 60:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Text' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 61:22-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TextInput' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 62:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ToastAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 63:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ToolbarAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 64:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Touchable' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 65:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableHighlight' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 66:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableNativeFeedback' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 67:41-75
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableOpacity' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 68:34-61
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TouchableWithoutFeedback' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 69:42-77
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'View' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 70:22-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ViewPagerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 71:34-61
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'WebView' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 72:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ActionSheetIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 75:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AdSupportIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 76:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Alert' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 77:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AlertIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 78:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Animated' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 79:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppRegistry' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 80:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppState' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 81:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AppStateIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 82:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'AsyncStorage' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 83:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'BackAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 84:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'CameraRoll' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 85:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Clipboard' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 86:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'DatePickerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 87:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Dimensions' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 88:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Easing' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 89:24-41
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'I18nManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 90:29-51
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ImagePickerIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 91:32-57
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'IntentAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 92:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'InteractionManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 93:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Keyboard' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 94:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'LayoutAnimation' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 95:33-59
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Linking' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 96:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'LinkingIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 97:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NativeEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 98:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NavigationExperimental' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 99:40-73
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NetInfo' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 100:25-43
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PanResponder' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 101:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PermissionsAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 102:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PixelRatio' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 103:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PushNotificationIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 104:37-67
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Settings' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 105:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Share' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 106:23-39
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StatusBarIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 107:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'StyleSheet' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 108:28-49
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Systrace' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 109:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'TimePickerAndroid' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 110:35-63
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'UIManager' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 111:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Vibration' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 112:27-47
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'VibrationIOS' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 113:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RCTDeviceEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 116:36-68
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'RCTNativeAppEventEmitter' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 117:39-74
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'NativeModules' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 118:31-55 152:13-37
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'Platform' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 119:26-45
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'processColor' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 120:30-53
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'requireNativeComponent' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 121:40-73
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'ColorPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 124:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'EdgeInsetsPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 125:36-65
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'PointPropType' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 126:31-55
+
+ERROR in ./~/react-native/Libraries/react-native/react-native.js
+Module not found: Error: Cannot resolve module 'throwOnWrongReactAPI' in /home/aaronptb/projects/git/SDHacks2016/node_modules/react-native/Libraries/react-native
+ @ ./~/react-native/Libraries/react-native/react-native.js 183:31-62
+webpack: bundle is now VALID.
