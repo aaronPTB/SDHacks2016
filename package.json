@@ -2,9 +2,13 @@
   "name": "sdhacks",
   "version": "1.0.0",
   "description": "study helper",
-  "main": "./app/server.js",
+  "main": "./app/app.js",
   "scripts": {
+    "watch": "webpack -w",
+    "start": "nodemon ./app/app.js",
+    "dev": "concurrent --kill-others \"npm run webpack-watch\" \"npm run express-server\"",
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
@@ -18,6 +22,8 @@
   "homepage": "https://github.com/aaronPTB/SDHacks2016#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0"
+    "concurrently": "^3.0.0",
+    "express": "^4.14.0",
+    "webpack": "^1.13.2"
   }
 }
